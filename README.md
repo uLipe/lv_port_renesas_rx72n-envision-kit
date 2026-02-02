@@ -47,9 +47,9 @@ The board is equipped with many communication interfaces, including (but not lim
 ### Dependencies setup:
  
 - Install the Renesas E2Studio for RX platfrom from: https://www.renesas.com/en/software-tool/e2studio-information-rx-family 
-- Please keep attention, you need the specific software tools for the RX platform, plain E2Studio will not be able to compile it.
+- Keep in mind that you need the specific software tools for the RX platform, plain `E2Studio` will not be able to compile the application.
 - Additionally you can also use the stand-alone GNU-RX from here: https://llvm-gcc-renesas.com/rx-download-toolchains/
-- After that you can integrate the toolchain using the Renesas Toolchain Manager in the View menu.
+- After that you can select the installed toolchain via the Renesas Toolchain Manager in the View menu.
 
 
 ### Hardware setup
